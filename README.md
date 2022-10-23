@@ -6,3 +6,5 @@ Pada direktori /materi, Anda akan menemukan salindia dari materi yang akan saya 
 - [Github Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Gitlab Cheatsheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 - [Git book](https://git-scm.com/book/en/v2)
+
+Halo Aku Zai
